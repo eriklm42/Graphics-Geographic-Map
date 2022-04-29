@@ -1,4 +1,4 @@
-# ibge_sc_itajai
+# Graphics, Interative and Term Geographic Map
 This notebook contains geographic data for Brazil, filtering only the metropolitan area of Itajaí to generate an interactive graph of the city's infrastructure and some thermal maps for each topic covered.
 
 ## Number of segmented voters by neighborhood
